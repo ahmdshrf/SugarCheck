@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="mk" type="JSON" />
+      <mapping pattern="Application" type="PLAIN_TEXT" />
+      <mapping pattern="Application.mk" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
